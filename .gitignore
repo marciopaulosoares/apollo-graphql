@@ -1,0 +1,27 @@
+# VS Code
+.vscode/
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# TypeScript
+*.tsbuildinfo
+tsconfig.tsconfig.json
+
+# Apollo Server (cache and introspection)
+.apollo.json
+
+# Common ignore files
+*.log
+coverage/
+test-results/
+
+# Output files
+dist/
+out/
+build/
+
+# Temporary files
+.DS_Store
+Thumbs.db
